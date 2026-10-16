@@ -25,9 +25,9 @@ Currently Learning: Java, Spring Boot
 
 🛒 Shopping-Mart
 
-E-commerce application built with JavaScript.
+E-commerce application built with React.JS.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Adarshverma977/Shopping-Mart)
 
 ⸻
 
@@ -35,7 +35,7 @@ E-commerce application built with JavaScript.
 
 MERN stack learning and project management application.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Adarshverma977/learnlog-mern)
 
 ⸻
 
@@ -43,7 +43,7 @@ MERN stack learning and project management application.
 
 Task management application with REST APIs and MongoDB integration.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Adarshverma977/TaskFlow)
 
 ⸻
 
@@ -51,7 +51,7 @@ Task management application with REST APIs and MongoDB integration.
 
 AI-powered interview preparation platform built with the MERN stack.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Adarshverma977/Job-Preparation-AI)
 
 ⸻
 
@@ -59,7 +59,7 @@ AI-powered interview preparation platform built with the MERN stack.
 
 Authentication system built with MERN technologies.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Adarshverma977/AuthFlow)
 
 ⸻
 
@@ -67,7 +67,7 @@ Authentication system built with MERN technologies.
 
 Personal portfolio built with React and Three.js.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Adarshverma977/My-Portfolio)
 
 📂 Development Roadmap
 
