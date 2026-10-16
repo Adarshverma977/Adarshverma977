@@ -82,11 +82,13 @@ Personal portfolio built with React and Three.js.
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarshverma977&theme=tokyo-night&hide_border=true)
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarshverma977&theme=tokyonight"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
 
 ## 🤝 Connect With Me
 
