@@ -52,10 +52,16 @@ I'm a developer focused on building useful web applications and strengthening my
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies" />
 </p>
 
-### Tools & Currently Exploring
+### 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,java,spring&theme=dark" alt="Development tools and technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Development tools" />
+</p>
+
+### 🌱 Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" alt="Currently exploring Java, Spring Boot and SQL databases" />
 </p>
 
 ---
