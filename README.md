@@ -134,11 +134,13 @@ A selection of projects showcasing my development practice across web applicatio
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshverma977&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarshverma977&theme=tokyonight"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
 
 ---
 
