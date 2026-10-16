@@ -23,13 +23,51 @@ Currently Learning: Java, Spring Boot
 
 🚀 Featured Projects
 
-Project	Description	Repository
-Shopping-Mart	E-commerce application	View Repo
-LearnLog-MERN	MERN stack learning and project management	View Repo
-TaskFlow	Task management application	View Repo
-Job-Preparation-AI	AI-powered interview preparation platform	View Repo
-AuthFlow	MERN authentication system	View Repo
-My-Portfolio	Personal portfolio built with React and Three.js	View Repo
+🛒 Shopping-Mart
+
+E-commerce application built with JavaScript.
+
+🔗 View Repository
+
+⸻
+
+📚 LearnLog-MERN
+
+MERN stack learning and project management application.
+
+🔗 View Repository
+
+⸻
+
+✅ TaskFlow
+
+Task management application with REST APIs and MongoDB integration.
+
+🔗 View Repository
+
+⸻
+
+🤖 Job-Preparation-AI
+
+AI-powered interview preparation platform built with the MERN stack.
+
+🔗 View Repository
+
+⸻
+
+🔐 AuthFlow
+
+Authentication system built with MERN technologies.
+
+🔗 View Repository
+
+⸻
+
+🌐 My-Portfolio
+
+Personal portfolio built with React and Three.js.
+
+🔗 View Repository
 
 📂 Development Roadmap
 
