@@ -127,15 +127,27 @@ A selection of projects showcasing my development practice across web applicatio
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adarshverma977&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshverma977&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=Adarshverma977&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  alt="GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adarshverma977&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Most used programming languages"
+/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Adarshverma977&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Adarshverma977&theme=tokyonight&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
